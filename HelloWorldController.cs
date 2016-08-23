@@ -9,7 +9,7 @@ public class HelloWorldController : Controller
     {
         return new
         {
-            message = "Hello World2",
+            message = "Hello World",
             time = DateTime.Now
         };
     }
