@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/adamhakowski/.nuget/packages"
+    ]
+  }
+}
